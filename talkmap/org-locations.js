@@ -13,5 +13,10 @@ var addressPoints = [
     "Introduction to COMSOL (COMSOL\u4f7f\u7528\u5165\u95e8)<br />PT Virtual Teaching and Research Section, Ministry of Education (China); online",
     43.5904719,
     3.8595132
+  ],
+  [
+    "The Essence of Hydrogen Bonds in Liquid Water<br />Nankai University; Tianjin, China",
+    39.3032619,
+    117.4163641
   ]
 ];
