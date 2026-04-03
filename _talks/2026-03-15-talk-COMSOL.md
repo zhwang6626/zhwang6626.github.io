@@ -1,9 +1,9 @@
 ---
 title: "Introduction to COMSOL (COMSOL使用入门)"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2025-03-15-talk-COMSOL
-venue: "PT Virtual Teaching and Research Section, Minster of Education (China)"
+venue: "PT Virtual Teaching and Research Section, Ministry of Education (China)"
 date: 2026-03-15
 location: "online"
 ---
