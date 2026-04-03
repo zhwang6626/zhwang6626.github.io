@@ -1,5 +1,5 @@
 ---
-title: "Physics Seminar I | 物理研讨 1"
+title: "Physics Seminar I"
 collection: teaching
 type: "Undergraduate course (for Boling class)"
 permalink: /teaching/2025-autumn-teaching-1
