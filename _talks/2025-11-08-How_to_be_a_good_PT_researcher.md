@@ -8,7 +8,7 @@ date: 2025-11-08
 location: "Tianjin, China"
 ---
 
-In this lecture, I share some experiences in solving IYPT problems. However, the contents of the lecture isn't confined in Physics Tournament (PT), and most of them are general for scientific research and learning physics.
+In this lecture, I share some experiences in solving IYPT problems. However, the content is not limited to the Physics Tournament (PT); most of it is equally relevant to general scientific research and physics learning.
 
 Presentation Slide
 ===
