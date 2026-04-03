@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Introduction to Nonlinear Physics<br />Tianjin Nankai High School; Tianjin, Nankai",
-    39.1370055,
-    117.1439502
+    "Introduction to Nonlinear Physics<br />Tianjin Nankai High School; Tianjin, China",
+    39.3032619,
+    117.4163641
   ],
   [
     "Introduction to COMSOL (COMSOL\u4f7f\u7528\u5165\u95e8)<br />PT Virtual Teaching and Research Section, Minster of Education (China); online",
