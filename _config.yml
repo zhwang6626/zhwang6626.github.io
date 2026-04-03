@@ -23,7 +23,7 @@ repository               : "zhwang6626/zhwang6626.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my-photo.png"
   name             : "汪子涵 Zihan WANG"
   pronouns         : "he/him"  
   bio              : "Undergraduate | Physics"
