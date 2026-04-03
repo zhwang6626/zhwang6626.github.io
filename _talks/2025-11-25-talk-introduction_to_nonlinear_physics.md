@@ -12,3 +12,4 @@ Nonlinear physics has been a research hotspot for centuries. Compared to linear 
 
 Presentation Slide
 ===
+[📄 Download presentation slide (PDF)](/files/非线性物理与混沌基础-南开中学-20251125.pdf)
