@@ -2,13 +2,12 @@
 title: "Physics Seminar I (TA)"
 collection: teaching
 type: "Undergraduate course (for Boling class)"
-permalink: /teaching/2025-fall-teaching-physics_seminar_I.md
+permalink: /teaching/2025-fall-teaching-physics_seminar_I
 venue: "Nankai University, School of Physics"
 date: 2025-09-01
 location: "Tianjin, China"
 ---
 
-Discription
 
 Presentation Slides
 ===
