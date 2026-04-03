@@ -23,5 +23,10 @@ var addressPoints = [
     "2D Hydrogen-bonding Network at the Pure Water Liquid\u2013vapor Interface<br />Nankai University; Tianjin, China",
     39.3032619,
     117.4163641
+  ],
+  [
+    "How to Be a Good PT Researcher?<br />Training lectures for PT beginners; Tianjin, China",
+    39.3032619,
+    117.4163641
   ]
 ];
