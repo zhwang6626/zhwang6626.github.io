@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (for Boling class)"
 permalink: /teaching/2025-autumn-teaching-1
 venue: "Nankai University, School of Physics"
-date: 2025
+date: 2025-09-01
 location: "Tianjin, China"
 ---
 
