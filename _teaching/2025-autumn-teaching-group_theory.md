@@ -12,4 +12,8 @@ This series concludes seminars of Boling Class (2024) of Nankai University. I'm 
 
 Videos
 ===
+[▶️ Videos of group theory seminars](https://space.bilibili.com/703109083/lists/6393531)
 
+Reference
+===
+《群论及其在凝聚态物理中的应用》，李新征，北京大学出版社.
