@@ -8,4 +8,7 @@ date: 2025-04-16
 location: "Tianjin, China"
 ---
 
-In this presentation, we focused on the recent hotspot about the interesting properties of Hydrogen bonds at the interface - 2D Hydrogen-bonding network. We reviewed the basic idea of sum frequency generation (SFG)
+In this presentation, we focused on a recent research hotspot: the interesting properties of the two-dimensional hydrogen-bonding network at water interfaces. We reviewed the fundamentals of sum frequency generation (SFG) and molecular dynamics (MD) simulations, and also discussed several recent studies in this area.
+
+Presentation Slides
+===
