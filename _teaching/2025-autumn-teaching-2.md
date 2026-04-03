@@ -2,7 +2,7 @@
 title: "Optics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-autumn-teaching-1
+permalink: /teaching/2025-autumn-teaching-2
 venue: "review and exercise lessons"
 date: 2025-12-01
 location: "Tianjin, China"
