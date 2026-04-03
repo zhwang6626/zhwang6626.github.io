@@ -16,7 +16,7 @@ Videos
 
 Exercise Soltion of J. D. Jackson's Book
 ===
-
+[📄 Solution for *Classical Electrodynamics, David Jackson* (PDF)](/files/Solution for Classical Electrodynamics, David Jackson (2025-9-3 updated).pdf) (2025-09-03 updated)
 
 References
 ===
