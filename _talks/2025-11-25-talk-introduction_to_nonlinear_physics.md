@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Nonlinear Physics"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2025-11-25-talk-introduction_to_nonlinear_physics
 venue: "Tianjin Nankai High School"
 date: 2025-11-25
