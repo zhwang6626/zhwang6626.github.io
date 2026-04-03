@@ -74,4 +74,8 @@ Service and leadership
 ======
 I am currently undertaking a service-learning program, popularizing the **PT-RQC Teaching and Learning Model** across all levels of science education. We aim to transform traditional learning methods in China, such as doing tedious exercises and preparing for exams, and to build a whole-process student development pipeline, enabling students to handle complex problems, think critically, and express their ideas clearly and confidently. The physics tournament format, which originates from the International Young Physicists' Tournament (IYPT), is a great way to achieve these educational goals, but it is not easy to implement for every school. Therefore, we retain the central spirit of PT and propose the PT-RQC Teaching and Learning Model, encouraging schools to organize various activities to practice this model. As a member of the PT Virtual Teaching and Research Section (PT VTRS) under the Ministry of Education and of the Nankai PT Club, I carry out this program and lead my team to provide services to high schools and universities. To date, I have connected with nearly 60 institutions in China.
 
-![](/images/PT-RQC_Teaching_and_Learning_Model.png)
+<div align="center">
+  <img src="/images/PT-RQC_Teaching_and_Learning_Model.png" alt="PT-RQC Teaching and Learning Model" width="300">
+  <p>PT-RQC Teaching and Learning Model</p>
+</div>
+
