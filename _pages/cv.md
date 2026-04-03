@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in School of Physics, Nankai University, 2024 - 2028 (expected)
+  * Supervisor: Prof. Wang YANG
+  * Mentor: Prof. Chuanyong LI
+* The High School Affiliated to Renmin University, 2018 - 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2026: Visiting Scholar (expected)
+  * University of Waterloo
+  * Supervisor: Prof. Guo-xing MIAO
+* Fall 2025 - Summer 2026: Vice President of Nankai PT Club
+  * Nankai University
+  * Duties includes: Training lectures, Mid-term Reviews of NKPT, Nankai Physcics Tournament (NKPT), Tianjin Undergraduate Physics Tournament (TJ-UPT)
+* Spring 2026: Teaching Assistant
+  * Nankai University
+  * Physics Seminar II
+  * Duties includes: Organizing off-class discussions, Introduction to academic skills
+  * Supervisor: Prof. Qiang WU
+* Fall 2025: Teaching Assistant
+  * Nankai University
+  * Physics Seminar I
+  * Duties includes: Curriculum reform, Introduction to basic academic skills
+  * Supervisor: Prof. Chuanyong LI
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interested
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Many-body Quantum Physics
+* Strong Correlated System
+* Optical Lattices
+* Quantum Simulation
 
 Publications
 ======
