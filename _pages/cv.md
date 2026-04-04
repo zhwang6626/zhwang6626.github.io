@@ -42,7 +42,7 @@ Research Interested
 * Optical Lattices
 * Quantum Simulation
 
-Publications
+Research Outputs
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
