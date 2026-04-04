@@ -50,7 +50,7 @@ Awards
 * **Best Physicist**, Nankai Undergraduate Physics Tournament (year 2025)
 * **National Scholarship** (year 2025)
 * **Merit Student** in Nankai University (year 2025)
-* Excellent Student Cadre in Nankai University (year 2025-2026)
+* Excellent Student Cadre in Nankai University (year 2025, 2026)
 * Merit Student in the High school affiliated to Renmin University of China (year 2018-2024)
   
 Research Outputs
