@@ -46,7 +46,7 @@ Awards
 ===
 * **First Price**, China Undergraduate Physics Tournament (year 2025)
 * **Best Opponent**, China Undergraduate Physics Tournament (year 2025)
-* **Grand Price**(Rank 1), Nankai Undergraduate Physics Tournament (year 2025)
+* **Grand Price** (Rank 1), Nankai Undergraduate Physics Tournament (year 2025)
 * **Best Physicist**, Nankai Undergraduate Physics Tournament (year 2025)
 * **National Scholarship** (year 2025)
 * **Merit Student** in Nankai University (year 2025)
