@@ -1,5 +1,5 @@
 ---
-title: "Optics"
+title: "Atomic Physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
