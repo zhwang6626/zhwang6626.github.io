@@ -25,4 +25,4 @@ Videos
 
 Handout
 ======
-[📄 下载配套讲义 (PDF)](/files/原子物理期末复习题-2026.06_bilibili.pdf)
+[📄 下载配套讲义 (PDF)](/files/原子物理期末复习题-2026.06.pdf)
